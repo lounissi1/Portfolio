@@ -9,7 +9,8 @@ Note: Data used in the projects (accessed under data directory) is for demonstra
 # Contents
 ##  1. Machine Learning
 
-* Suicide rate: 
+* [Suicide rate](https://github.com/lounissi1/Portfolio/blob/main/suicide_rates/suicide_rate_investigation.ipynb)
+*  
 - Loan prediction
 + Or pluses
 
