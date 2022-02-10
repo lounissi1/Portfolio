@@ -1,0 +1,107 @@
+-- Trigger creation
+
+CREATE OR REPLACE TRIGGER pClient_Client
+	BEFORE INSERT ON Client
+	FOR EACH ROW
+BEGIN
+	SELECT seq_Client.NEXTVAL INTO :new.pClient FROM DUAL;
+END;
+/
+
+CREATE OR REPLACE TRIGGER pRoute_Route
+	BEFORE INSERT ON Route
+	FOR EACH ROW
+BEGIN
+	SELECT seq_Route.NEXTVAL INTO :new.pRoute FROM DUAL;
+END;
+/
+
+CREATE OR REPLACE TRIGGER pTypeEquipement_TypeEquipement
+	BEFORE INSERT ON TypeEquipement
+	FOR EACH ROW
+BEGIN
+	SELECT seq_TypeEquipement.NEXTVAL INTO :new.pTypeEquipement FROM DUAL;
+END;
+/
+
+CREATE OR REPLACE TRIGGER pEquipement_Equipement
+	BEFORE INSERT ON Equipement
+	FOR EACH ROW
+BEGIN
+	SELECT seq_Equipement.NEXTVAL INTO :new.pEquipement FROM DUAL;
+END;
+/
+
+CREATE OR REPLACE TRIGGER pCompagnie_Compagnie
+	BEFORE INSERT ON Compagnie
+	FOR EACH ROW
+BEGIN
+	SELECT seq_Compagnie.NEXTVAL INTO :new.pCompagnie FROM DUAL;
+END;
+/
+
+CREATE OR REPLACE TRIGGER pCarburant_Carburant
+	BEFORE INSERT ON Carburant
+	FOR EACH ROW
+BEGIN
+	SELECT seq_Carburant.NEXTVAL INTO :new.pCarburant FROM DUAL;
+END;
+/
+
+CREATE OR REPLACE TRIGGER pTracteur_Tracteur
+	BEFORE INSERT ON Tracteur
+	FOR EACH ROW
+BEGIN
+	SELECT seq_Tracteur.NEXTVAL INTO :new.pTracteur FROM DUAL;
+END;
+/
+
+CREATE OR REPLACE TRIGGER pCamion_Camion
+	BEFORE INSERT ON Camion
+	FOR EACH ROW
+BEGIN
+	SELECT seq_Camion.NEXTVAL INTO :new.pCamion FROM DUAL;
+END;
+/
+CREATE OR REPLACE TRIGGER pPosition_Position
+	BEFORE INSERT ON Position
+	FOR EACH ROW
+BEGIN
+	SELECT seq_Position.NEXTVAL INTO :new.pPosition FROM DUAL;
+END;
+/
+CREATE OR REPLACE TRIGGER pChargement_Chargement
+	BEFORE INSERT ON Chargement
+	FOR EACH ROW
+BEGIN
+	SELECT seq_Chargement.NEXTVAL INTO :new.pChargement FROM DUAL;
+END;
+/
+CREATE OR REPLACE TRIGGER pSoumissionE_SoumissionE
+	BEFORE INSERT ON SoumissionE
+	FOR EACH ROW
+BEGIN
+	SELECT seq_SoumissionE.NEXTVAL INTO :new.pSoumissionE FROM DUAL;
+END;
+/
+CREATE OR REPLACE TRIGGER pSoumissionD_SoumissionD
+	BEFORE INSERT ON SoumissionD
+	FOR EACH ROW
+BEGIN
+	SELECT seq_SoumissionD.NEXTVAL INTO :new.pSoumissionD FROM DUAL;
+END;
+/
+CREATE OR REPLACE TRIGGER pCommandeE_CommandeE
+	BEFORE INSERT ON CommandeE
+	FOR EACH ROW
+BEGIN
+	SELECT seq_CommandeE.NEXTVAL INTO :new.pCommandeE FROM DUAL;
+END;
+/
+CREATE OR REPLACE TRIGGER pCommandeD_CommandeD
+	BEFORE INSERT ON CommandeD
+	FOR EACH ROW
+BEGIN
+	SELECT seq_CommandeD.NEXTVAL INTO :new.pCommandeD FROM DUAL;
+END;
+/
