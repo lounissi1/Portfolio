@@ -12,8 +12,9 @@ Note: Data used in the projects (accessed under data directory) is for demonstra
 * [Suicide rate](https://github.com/lounissi1/Portfolio/blob/main/suicide_rates/suicide_rate_investigation.ipynb)
 * [Loan prediction](https://github.com/lounissi1/Portfolio/blob/main/Loan-classification/ML-Loan-classification.ipynb)
 - 
-+ 
+
 
 ## 2. Neural Network
-* 
-- 
+
+* [Neural Network](https://github.com/lounissi1/Portfolio/blob/main/NeuralNetwork/NeuralNetwork.py)
+
