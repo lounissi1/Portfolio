@@ -13,6 +13,6 @@ Note: Data used in the projects (accessed under data directory) is for demonstra
 - Loan prediction
 + Or pluses
 
-## Neural Network
+## 2. Neural Network
 * 
 - 
