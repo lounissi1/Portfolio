@@ -14,7 +14,8 @@ Note: Data used in the projects (accessed under data directory) is for demonstra
 - 
 
 
-## 2. Neural Network
+## 2. Artificial intelligence course
 
 * [Neural Network](https://github.com/lounissi1/Portfolio/blob/main/NeuralNetwork/NeuralNetwork.py)
 
+## 3. SQL
