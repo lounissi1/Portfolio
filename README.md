@@ -11,7 +11,8 @@ Repository containing portfolio of Data science projects completed by me for aca
 
 * [Suicide rate](https://github.com/lounissi1/Portfolio/blob/main/suicide_rates/suicide_rate_investigation.ipynb)
 * [Loan prediction](https://github.com/lounissi1/Portfolio/blob/main/Loan-classification/ML-Loan-classification.ipynb)
-- 
+- ML Logistic Regression: Predicting salary class of a person using logistic regression.
+- ML Decision Trees and Random Forests: Using Decision Trees and Random Forests to classify schools as Private or Public.
 
 
 ## 2. Artificial intelligence course
