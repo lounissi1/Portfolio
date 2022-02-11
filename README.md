@@ -2,7 +2,7 @@
 
 
 
-Repository containing portfolio of Data science projects completed by me for academic, self learning, and hobby purposes. My other work is under confidentiality.
+Repository containing portfolio of Data science projects completed by me for academic, self learning. Projects from work are under confidentiality I've put just an overview .
 
 
 
