@@ -20,3 +20,4 @@ Note: Data used in the projects (accessed under data directory) is for demonstra
 
 ## 3. SQL
 * Database modeling and design: Modeling and Design of a database: Management of a transport company with several trucks. The objective of the project is to create a database. The first step is to model the subject. Then create the tables (CREATE TABLE), and fill them (INSERT and SQL Loader), Then create the programs that run in the RDBMS.
+* Database management systems
