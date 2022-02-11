@@ -2,7 +2,7 @@
 
 
 
-Repository containing portfolio of Data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks.
+Repository containing portfolio of Data science projects completed by me for academic, self learning, and hobby purposes. My other work is under confidentiality.
 
 
 
