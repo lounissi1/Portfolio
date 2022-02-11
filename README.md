@@ -14,11 +14,14 @@ Repository containing portfolio of Data science projects completed by me for aca
 - ML Logistic Regression: Predicting salary class of a person using logistic regression.
 - ML Decision Trees and Random Forests: Using Decision Trees and Random Forests to classify schools as Private or Public.
 
+## 2. Data Analysis and Visualisation
+ * Time Series Analysis: time series analysis of the financial data. Adjusted close prices for Faceboo, 3M Company, IBM and Amazon for the last 60 days.
 
-## 2. Artificial intelligence course
+
+## 3. Deep Learning
 
 * [Neural Network](https://github.com/lounissi1/Portfolio/blob/main/NeuralNetwork/NeuralNetwork.py)
 
-## 3. SQL
+## 4. SQL
 * [Database modeling and design](https://github.com/lounissi1/Portfolio/blob/main/Database%20modeling%20and%20design/01_schema.sql): Management of a transport company with several trucks. The objective of the project is to create a database. The first step is to model the subject. Then create the tables (CREATE TABLE), and fill them (INSERT and SQL Loader), Then create the programs that run in the RDBMS.
 * Database management systems: Modeling and Design of a database.
