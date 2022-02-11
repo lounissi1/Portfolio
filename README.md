@@ -31,6 +31,6 @@ Repository containing portfolio of Data science projects completed by me for aca
 ## 6. Farming Decision Project
 ## 7. Applied Math Project
   * Spectral Discretization of a Naghdi Shell Model
-## Unsteady aerodynamics and stall project
+## 8. Unsteady aerodynamics and stall project
 
 
