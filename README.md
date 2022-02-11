@@ -16,7 +16,7 @@ Repository containing portfolio of Data science projects completed by me for aca
 - [k-Nearest Neighbors](https://github.com/lounissi1/Portfolio/blob/main/k-Nearest%20Neighbors/k-Nearest%20Neighbors.ipynb) : We will use the Iris dataset for this work. The dataset was first introduced by statistician R. Fisher and consists of 50 observations from each of three species Iris (Iris setosa, Iris virginica and Iris versicolor). For each sample, 4 features are given: the sepal length and width, and the petal length and width. The goal is to train kNN algorithm to distinguish the species from one another.
 
 ## 2. Data Analysis and Visualisation
- * Time Series Analysis: time series analysis of the financial data. Adjusted close prices for Facebook, 3M Company, IBM and Amazon for the last 60 days.
+ * [Time Series Analysis](https://github.com/lounissi1/Portfolio/blob/main/Time%20Series%20Analysis/Time%20Series%20Analysis.ipynb): time series analysis of the financial data. Adjusted close prices for Facebook, 3M Company, IBM and Amazon for the last 60 days.
 
 
 ## 3. Deep Learning
