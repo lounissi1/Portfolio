@@ -29,6 +29,7 @@ Repository containing portfolio of Data science projects completed by me for aca
 
 ## 5. Statistics and Probabilty for Data Science
 ## 6. Farming Decision Project
-## 7. Applied Math Project (Spectral Discretization of a Naghdi Shell Model)
+## 7. Applied Math Project
+  * Spectral Discretization of a Naghdi Shell Model
 
 
