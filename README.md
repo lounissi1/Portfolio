@@ -13,6 +13,7 @@ Repository containing portfolio of Data science projects completed by me for aca
 * [Loan prediction](https://github.com/lounissi1/Portfolio/blob/main/Loan-classification/ML-Loan-classification.ipynb)
 - ML Logistic Regression: Predicting salary class of a person using logistic regression.
 - ML Decision Trees and Random Forests: Using Decision Trees and Random Forests to classify schools as Private or Public.
+- k-Nearest Neighbors: We will use the Iris dataset for this assignment. The dataset was first introduced by statistician R. Fisher and consists of 50 observations from each of three species Iris (Iris setosa, Iris virginica and Iris versicolor). For each sample, 4 features are given: the sepal length and width, and the petal length and width. The goal is to train kNN algorithm to distinguish the species from one another.
 
 ## 2. Data Analysis and Visualisation
  * Time Series Analysis: time series analysis of the financial data. Adjusted close prices for Faceboo, 3M Company, IBM and Amazon for the last 60 days.
