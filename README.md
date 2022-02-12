@@ -22,8 +22,10 @@ prepared as the final project for Foundations of Data Science course at Universi
 
 ## 3. Deep Learning
 
-* [Neural Network](https://github.com/lounissi1/Portfolio/blob/main/NeuralNetwork/NeuralNetwork.py). A work that was done during a successful course entitled artificial intelllegence (INF4230) at the university of Quebec in Montreal with Professor Eric Beaudry. 
-* Course Description
+* [Neural Network](https://github.com/lounissi1/Portfolio/blob/main/NeuralNetwork/NeuralNetwork.py). A work that was done during a successful course entitled [Artificial Intelllegence (INF4230)](http://ericbeaudry.uqam.ca/INF4230/) at the university of Quebec in Montreal with Professor Eric Beaudry. 
+
+Course Description:
+
 Know the paradigms of artificial intelligence. To be able to formulate hypotheses for research, to test them, to interpret them and to present them. Be able to evaluate received ideas about artificial intelligence. History of artificial intelligence. Descriptive identification and goal reduction. Solving problems by analogy. Exploitation of natural constraints. Propagation of constraints. Research and exploration of alternatives. Decision and control. Problem solving paradigms. Mathematical logic and proof of theorems. Representation of knowledge. Natural language processing.
 
 ## 4. SQL
