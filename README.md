@@ -31,7 +31,7 @@ Repository containing portfolio of Data science projects completed by me for aca
 ## 6. Farming Decision Project
 * [Mixed Similarity Measure ](https://github.com/lounissi1/Portfolio/blob/main/Farming%20Decision%20Project/Lactanet_project_report.pdf): The main purpose of the project is helping dairy agriculture in decision-making process.  Clustering analysis played an import role and it is considered as a precious tool to achieve this goal.  Traditionally, clustering approaches concentrate on purely numerical or categorical data only.  An important area of cluster analysis deals with mixed data, composed by both numerical and categorical attributes. Clustering mixed data is not simple, because there is a strong gap between the similarity metrics for these two kinds of data.  In this study we provide a mixed similarity measure (MSM) that could be used with mixed-data types.
 ## 7. Applied Math Project
-  * [Spectral Discretization of a Naghdi Shell Model](https://github.com/lounissi1/Portfolio/blob/main/Applied%20Math/spectral_descretization.pdf)
+  * [Spectral Discretization of a Naghdi Shell Model](https://github.com/lounissi1/Portfolio/blob/main/Applied%20Math/spectral_descretization.pdf): We consider the Nagdhi equations which model a thin three-dimensional shell. We propose a spectral discretization of this problem in the case where the midsurface of the shell is weakly regular. We perform the numerical analysis of the discrete problem and prove optimal error estimates
   
 ## 8. Unsteady aerodynamics and stall project
 * [Aerodynamics comparaison](https://github.com/lounissi1/Portfolio/blob/main/Unsteady%20aerodynamics/Aerodynamic-PolyMtl.pdf)
