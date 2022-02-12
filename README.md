@@ -36,7 +36,7 @@ Know the paradigms of artificial intelligence. To be able to formulate hypothese
 
 ## 4. SQL
 * [Database modeling and design](https://github.com/lounissi1/Portfolio/blob/main/Database%20modeling%20and%20design/01_schema.sql): Management of a transport company with several trucks. The objective of the project is to create a database. The first step is to model the subject. Then create the tables (CREATE TABLE), and fill them (INSERT and SQL Loader), Then create the programs that run in the RDBMS.
-* Database management systems: Modeling and Design of a database.
+* [Database management systems](https://github.com/lounissi1/Portfolio/blob/main/Database%20project/00_modele.pdf.pdf): Modeling and Design of a database.
 
 ## 5. Statistics and Probabilty for Data Science
 Learning Outcomes:
