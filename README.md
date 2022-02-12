@@ -41,6 +41,7 @@ Learning Outcomes:
   * [Spectral Discretization of a Naghdi Shell Model](https://github.com/lounissi1/Portfolio/blob/main/Applied%20Math/spectral_descretization.pdf): We consider the Nagdhi equations which model a thin three-dimensional shell. We propose a spectral discretization of this problem in the case where the midsurface of the shell is weakly regular. We perform the numerical analysis of the discrete problem and prove optimal error estimates
   
 ## 8. Unsteady aerodynamics and stall project
-* [Aerodynamics comparaison](https://github.com/lounissi1/Portfolio/blob/main/Unsteady%20aerodynamics/Aerodynamic-PolyMtl.pdf)
+* [Aerodynamics comparaison](https://github.com/lounissi1/Portfolio/blob/main/Unsteady%20aerodynamics/Aerodynamic-PolyMtl.pdf): Comparative study of two models of
+dynamic stall: model of Gormont and ONERA model. an analysis made during my work at Polytechnique Montreal.
 
 
