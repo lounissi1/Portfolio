@@ -28,6 +28,12 @@ Repository containing portfolio of Data science projects completed by me for aca
 * Database management systems: Modeling and Design of a database.
 
 ## 5. Statistics and Probabilty for Data Science
+Learning Outcomes:
+1. Design experiments to collect data that answer business or scientific questions.
+2. Formulate statistical tests to answer business questions.
+3. Use multiple linear and logistic regression as predictive models.
+4. Use Python and R libraries for regression and Monte Carlo simulation.
+5. Conduct a data analysis from both a classical and contemporary viewpoint.
 ## 6. Farming Decision Project
 * [Mixed Similarity Measure ](https://github.com/lounissi1/Portfolio/blob/main/Farming%20Decision%20Project/Lactanet_project_report.pdf): The main purpose of the project is helping dairy agriculture in decision-making process.  Clustering analysis played an import role and it is considered as a precious tool to achieve this goal.  Traditionally, clustering approaches concentrate on purely numerical or categorical data only.  An important area of cluster analysis deals with mixed data, composed by both numerical and categorical attributes. Clustering mixed data is not simple, because there is a strong gap between the similarity metrics for these two kinds of data.  In this study we provide a mixed similarity measure (MSM) that could be used with mixed-data types.
 ## 7. Applied Math Project
