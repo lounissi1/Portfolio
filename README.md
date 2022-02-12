@@ -9,7 +9,8 @@ Repository containing portfolio of Data science projects completed by me for aca
 # Contents
 ##  1. Machine Learning
 
-* [Suicide rate](https://github.com/lounissi1/Portfolio/blob/main/suicide_rates/suicide_rate_investigation.ipynb)
+* [Suicide rate](https://github.com/lounissi1/Portfolio/blob/main/suicide_rates/suicide_rate_investigation.ipynb): An Analysis of Suicide Rates From 1985 to 2016,
+prepared as the final project for Foundations of Data Science course at University of Toronto.
 * [Loan prediction](https://github.com/lounissi1/Portfolio/blob/main/Loan-classification/ML-Loan-classification.ipynb)
 - ML Logistic Regression: Predicting salary class of a person using logistic regression.
 - ML Decision Trees and Random Forests: Using Decision Trees and Random Forests to classify schools as Private or Public.
