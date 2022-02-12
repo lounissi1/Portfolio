@@ -11,7 +11,12 @@ Repository containing portfolio of Data science projects completed by me for aca
 
 * [Suicide rate](https://github.com/lounissi1/Portfolio/blob/main/suicide_rates/suicide_rate_investigation.ipynb): An Analysis of Suicide Rates From 1985 to 2016,
 prepared as the final project for Foundations of Data Science course at University of Toronto.
-* [Loan prediction](https://github.com/lounissi1/Portfolio/blob/main/Loan-classification/ML-Loan-classification.ipynb)
+* [Loan prediction](https://github.com/lounissi1/Portfolio/blob/main/Loan-classification/ML-Loan-classification.ipynb): In this project, I build a classifier to predict whether a loan case will be paid off or not.
+
+The dataset is from previous loan applications, I cleaned the data, and applied different classification algorithm on the data. I used the following algorithms to build your models: k-Nearest Neighbour, Decision Tree, Support Vector Machine and Logistic Regression.
+
+The results is reported as the accuracy of each classifier, using the following metrics when these are applicable: Jaccard index, F1-score and LogLoass.
+
 - ML Logistic Regression: Predicting salary class of a person using logistic regression.
 - ML Decision Trees and Random Forests: Using Decision Trees and Random Forests to classify schools as Private or Public.
 - [k-Nearest Neighbors](https://github.com/lounissi1/Portfolio/blob/main/k-Nearest%20Neighbors/k-Nearest%20Neighbors.ipynb) : We will use the Iris dataset for this work. The dataset was first introduced by statistician R. Fisher and consists of 50 observations from each of three species Iris (Iris setosa, Iris virginica and Iris versicolor). For each sample, 4 features are given: the sepal length and width, and the petal length and width. The goal is to train kNN algorithm to distinguish the species from one another.
