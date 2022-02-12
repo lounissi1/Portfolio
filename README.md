@@ -33,5 +33,6 @@ Repository containing portfolio of Data science projects completed by me for aca
 ## 7. Applied Math Project
   * Spectral Discretization of a Naghdi Shell Model
 ## 8. Unsteady aerodynamics and stall project
+* [Aerodynamics comparaison](https://github.com/lounissi1/Portfolio/blob/main/Unsteady%20aerodynamics/Aerodynamic-PolyMtl.pdf)
 
 
