@@ -22,7 +22,9 @@ prepared as the final project for Foundations of Data Science course at Universi
 
 ## 3. Deep Learning
 
-* [Neural Network](https://github.com/lounissi1/Portfolio/blob/main/NeuralNetwork/NeuralNetwork.py)
+* [Neural Network](https://github.com/lounissi1/Portfolio/blob/main/NeuralNetwork/NeuralNetwork.py). A work that was done during a successful course entitled artificial intelllegence (INF4230) at the university of Quebec in Montreal with Professor Eric Beaudry. 
+* Course Description
+Know the paradigms of artificial intelligence. To be able to formulate hypotheses for research, to test them, to interpret them and to present them. Be able to evaluate received ideas about artificial intelligence. History of artificial intelligence. Descriptive identification and goal reduction. Solving problems by analogy. Exploitation of natural constraints. Propagation of constraints. Research and exploration of alternatives. Decision and control. Problem solving paradigms. Mathematical logic and proof of theorems. Representation of knowledge. Natural language processing.
 
 ## 4. SQL
 * [Database modeling and design](https://github.com/lounissi1/Portfolio/blob/main/Database%20modeling%20and%20design/01_schema.sql): Management of a transport company with several trucks. The objective of the project is to create a database. The first step is to model the subject. Then create the tables (CREATE TABLE), and fill them (INSERT and SQL Loader), Then create the programs that run in the RDBMS.
@@ -38,10 +40,10 @@ Learning Outcomes:
 ## 6. Farming Decision Project
 * [Mixed Similarity Measure ](https://github.com/lounissi1/Portfolio/blob/main/Farming%20Decision%20Project/Lactanet_project_report.pdf): The main purpose of the project is helping dairy agriculture in decision-making process.  Clustering analysis played an import role and it is considered as a precious tool to achieve this goal.  Traditionally, clustering approaches concentrate on purely numerical or categorical data only.  An important area of cluster analysis deals with mixed data, composed by both numerical and categorical attributes. Clustering mixed data is not simple, because there is a strong gap between the similarity metrics for these two kinds of data.  In this study we provide a mixed similarity measure (MSM) that could be used with mixed-data types.
 ## 7. Applied Math Project
-  * [Spectral Discretization of a Naghdi Shell Model](https://github.com/lounissi1/Portfolio/blob/main/Applied%20Math/spectral_descretization.pdf): We consider the Nagdhi equations which model a thin three-dimensional shell. We propose a spectral discretization of this problem in the case where the midsurface of the shell is weakly regular. We perform the numerical analysis of the discrete problem and prove optimal error estimates
+  * [Spectral Discretization of a Naghdi Shell Model](https://github.com/lounissi1/Portfolio/blob/main/Applied%20Math/spectral_descretization.pdf): We consider the Nagdhi equations which model a thin three-dimensional shell. We propose a spectral discretization of this problem in the case where the midsurface of the shell is weakly regular. We perform the numerical analysis of the discrete problem and prove optimal error estimates.
   
 ## 8. Unsteady aerodynamics and stall project
 * [Aerodynamics comparaison](https://github.com/lounissi1/Portfolio/blob/main/Unsteady%20aerodynamics/Aerodynamic-PolyMtl.pdf): Comparative study of two models of
-dynamic stall: model of Gormont and ONERA model. an analysis made during my work at Polytechnique Montreal.
+dynamic stall: model of Gormont and ONERA model. An analysis made during my work at Polytechnique Montreal.
 
 
