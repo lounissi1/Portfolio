@@ -23,7 +23,7 @@ The results is reported as the accuracy of each classifier, using the following 
 
 ## 2. Data Analysis and Visualisation
  * [Time Series Analysis](https://github.com/lounissi1/Portfolio/blob/main/Time%20Series%20Analysis/Time%20Series%20Analysis.ipynb): time series analysis of the financial data. Adjusted close prices for Facebook, 3M Company, IBM and Amazon for the last 60 days.
- * [Analyzing US Economic Data](): Extracting essential data from a dataset and displaying it is a necessary part of data science; therefore individuals can make correct decisions based on the data. In this assignment, you will extract some essential economic indicators from some data, you will then display these economic indicators in a Dashboard. You can then share the dashboard via an URL.
+ * [Analyzing US Economic Data](https://github.com/lounissi1/Portfolio/blob/main/US%20Economic%20Data/US%20Economic%20Data.ipynb): Extracting essential data from a dataset and displaying it is a necessary part of data science; therefore individuals can make correct decisions based on the data. In this assignment, you will extract some essential economic indicators from some data, you will then display these economic indicators in a Dashboard. You can then share the dashboard via an URL.
  * [House Sales in King County, USA](): Determine the market price of a house given a set of features. Analyze and predict housing prices using attributes or features such as square footage, number of bedrooms, number of floors, and so on.
 
 ## 3. Deep Learning
