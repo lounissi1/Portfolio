@@ -40,6 +40,9 @@ Learning Outcomes:
 4. Use Python and R libraries for regression and Monte Carlo simulation.
 5. Conduct a data analysis from both a classical and contemporary viewpoint.
 ## 6. Farming Decision Project
+
+[Project Description:](https://www.genomecanada.ca/en/bioinformatics-and-artificial-intelligence-leverage-predictive-models-dairy-production)
+
 * [Mixed Similarity Measure ](https://github.com/lounissi1/Portfolio/blob/main/Farming%20Decision%20Project/Lactanet_project_report.pdf): The main purpose of the project is helping dairy agriculture in decision-making process. Clustering analysis played an import role and it is considered as a precious tool to achieve this goal.  Traditionally, clustering approaches concentrate on purely numerical or categorical data only.  An important area of cluster analysis deals with mixed data, composed by both numerical and categorical attributes. Clustering mixed data is not simple, because there is a strong gap between the similarity metrics for these two kinds of data.  In this study we provide a mixed similarity measure (MSM) that could be used with mixed-data types.
 
 * [Project](https://www.actualites.uqam.ca/2019/subvention-de-plus-de-1-M-de-genome-canada) funded by Genome Canada. This research is conducted by a multisectoral and transdisciplinary team made up of scientists from UQAM, Laval University and McGill University, in partnership with Valacta, the Quebec-Atlantic dairy production center of expertise, which aims to improve the profitability and sustainability of dairy farms by making producers aware of the many aspects of the technical and economic performance of their herd and their management. “Valacta is an essential partner because it will provide the data and its great domain expertise to build models that are consistent and very close to the real needs of the dairy industry and farmers. This study will also allow us to anticipate needs in this sector for other projects in the future.
