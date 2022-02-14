@@ -43,7 +43,7 @@ Learning Outcomes:
 3. Use multiple linear and logistic regression as predictive models.
 4. Use Python and R libraries for regression and Monte Carlo simulation.
 5. Conduct a data analysis from both a classical and contemporary viewpoint.
-## 6. Farming Decision Project
+## 6. Farming Decision Project - Quebec University
 
 [Project Description:](https://www.genomecanada.ca/en/bioinformatics-and-artificial-intelligence-leverage-predictive-models-dairy-production)
 
