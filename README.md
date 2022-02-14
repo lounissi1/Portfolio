@@ -17,8 +17,6 @@ The dataset is from previous loan applications, I cleaned the data, and applied 
 
 The results is reported as the accuracy of each classifier, using the following metrics when these are applicable: Jaccard index, F1-score and LogLoass.
 
-- ML Logistic Regression: Predicting salary class of a person using logistic regression.
-- ML Decision Trees and Random Forests: Using Decision Trees and Random Forests to classify schools as Private or Public.
 - [k-Nearest Neighbors](https://github.com/lounissi1/Portfolio/blob/main/k-Nearest%20Neighbors/k-Nearest%20Neighbors.ipynb) : We will use the Iris dataset for this work. The dataset was first introduced by statistician R. Fisher and consists of 50 observations from each of three species Iris (Iris setosa, Iris virginica and Iris versicolor). For each sample, 4 features are given: the sepal length and width, and the petal length and width. The goal is to train kNN algorithm to distinguish the species from one another.
 
 ## 2. Data Analysis and Visualisation
