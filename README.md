@@ -51,10 +51,10 @@ Learning Outcomes:
 
 * [Project](https://www.actualites.uqam.ca/2019/subvention-de-plus-de-1-M-de-genome-canada) funded by Genome Canada. This research is conducted by a multisectoral and transdisciplinary team made up of scientists from UQAM, Laval University and McGill University, in partnership with Valacta, the Quebec-Atlantic dairy production center of expertise, which aims to improve the profitability and sustainability of dairy farms by making producers aware of the many aspects of the technical and economic performance of their herd and their management. This study will also allow us to anticipate needs in this sector for other projects in the future.
 
-## 7. Applied Mathematics Project
+## 7. Applied Mathematics Project - Paris Dauphine University
   * [Spectral Discretization of a Naghdi Shell Model](https://github.com/lounissi1/Portfolio/blob/main/Applied%20Math/spectral_descretization.pdf): We consider the Nagdhi equations which model a thin three-dimensional shell. We propose a spectral discretization of this problem in the case where the midsurface of the shell is weakly regular. We perform the numerical analysis of the discrete problem and prove optimal error estimates.
   
-## 8. Unsteady aerodynamics and stall project
+## 8. Unsteady aerodynamics and stall project - Polytechnique Montreal
 * [Aerodynamics comparaison](https://github.com/lounissi1/Portfolio/blob/main/Unsteady%20aerodynamics/Aerodynamic-PolyMtl.pdf): Comparative study of two models of
 dynamic stall: model of Gormont and ONERA model. An analysis made during my work at Polytechnique Montreal.
 
