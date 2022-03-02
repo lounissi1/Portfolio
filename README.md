@@ -37,7 +37,7 @@ Know the paradigms of artificial intelligence. To be able to formulate hypothese
 * [Database management systems](https://github.com/lounissi1/Portfolio/blob/main/Database%20project/00_modele.pdf.pdf): Modeling and Design of a database.
 
 ## 5. Statistics and Probabilty for Data Science
-* [Mosquito Attractiveness- Statistical measures](): This study will analyze data from a study by Lefèvre T, Gouagna L-C, Dabiré KR, Elguero E, Fontenille D, Renaud F, et al. (2010) Beer Consumption Increases Human Attractiveness to Malaria Mosquitoes. PLoS ONE 5(3): e9546. https://doi.org/10.1371/journal.pone.0009546. The purpose of the study was to "ascertain the effect of beer consumption on human attractiveness to malaria mosquitoes in semi field conditions in Burkina Faso." The null hypothesis may be stated as:
+* [Mosquito Attractiveness- Statistical measures](https://github.com/lounissi1/Portfolio/blob/main/Statistics%20for%20Data%20Science/Mosquito%20Attractiveness.ipynb): This study will analyze data from a study by Lefèvre T, Gouagna L-C, Dabiré KR, Elguero E, Fontenille D, Renaud F, et al. (2010) Beer Consumption Increases Human Attractiveness to Malaria Mosquitoes. PLoS ONE 5(3): e9546. https://doi.org/10.1371/journal.pone.0009546. The purpose of the study was to "ascertain the effect of beer consumption on human attractiveness to malaria mosquitoes in semi field conditions in Burkina Faso." The null hypothesis may be stated as:
 "There is no relationship between human attractiveness to malaria mosquitoes whether they are 'treated' with beer or water."
 
 Learning Outcomes:
